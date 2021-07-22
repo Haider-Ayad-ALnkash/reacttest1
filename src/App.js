@@ -1,7 +1,7 @@
 import moment from "moment";
 import { Component } from "react";
 import { connect } from "react-redux";
-// import imgage from "./note.jpg";
+import imgage from "./note.jpg";
 import { add_Reminder ,remove_Reminder,clear_allTasks} from "./components/Action";
 
 class App extends Component{
@@ -39,7 +39,7 @@ class App extends Component{
     render(){
         return(
         <div className="App container">
-                {/* <img src={imgage} alt=""/> */}
+                <img src={imgage} alt=""/>
             <div className="reminder-title">
                 <h2 className="text-center">What Should U Do ? </h2>
                 </div>
