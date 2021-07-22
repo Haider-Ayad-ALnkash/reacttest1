@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/reacttest1/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/reacttest1/static/js/main.7d35a466.chunk.js",
-    "main.js.map": "/reacttest1/static/js/main.7d35a466.chunk.js.map",
-    "runtime-main.js": "/reacttest1/static/js/runtime-main.97189fd0.js",
-    "runtime-main.js.map": "/reacttest1/static/js/runtime-main.97189fd0.js.map",
-    "static/js/2.56bd8384.chunk.js": "/reacttest1/static/js/2.56bd8384.chunk.js",
-    "static/js/2.56bd8384.chunk.js.map": "/reacttest1/static/js/2.56bd8384.chunk.js.map",
-    "static/js/3.9170b30e.chunk.js": "/reacttest1/static/js/3.9170b30e.chunk.js",
-    "static/js/3.9170b30e.chunk.js.map": "/reacttest1/static/js/3.9170b30e.chunk.js.map",
+    "main.css": "/reacttest1/static/css/main.2ce860c0.chunk.css",
+    "main.js": "/reacttest1/static/js/main.fd9709c1.chunk.js",
+    "main.js.map": "/reacttest1/static/js/main.fd9709c1.chunk.js.map",
+    "runtime-main.js": "/reacttest1/static/js/runtime-main.9e964ea0.js",
+    "runtime-main.js.map": "/reacttest1/static/js/runtime-main.9e964ea0.js.map",
+    "static/css/2.455652b6.chunk.css": "/reacttest1/static/css/2.455652b6.chunk.css",
+    "static/js/2.190fa681.chunk.js": "/reacttest1/static/js/2.190fa681.chunk.js",
+    "static/js/2.190fa681.chunk.js.map": "/reacttest1/static/js/2.190fa681.chunk.js.map",
+    "static/js/3.5db3a0be.chunk.js": "/reacttest1/static/js/3.5db3a0be.chunk.js",
+    "static/js/3.5db3a0be.chunk.js.map": "/reacttest1/static/js/3.5db3a0be.chunk.js.map",
     "index.html": "/reacttest1/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/reacttest1/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.56bd8384.chunk.js.LICENSE.txt": "/reacttest1/static/js/2.56bd8384.chunk.js.LICENSE.txt"
+    "static/css/2.455652b6.chunk.css.map": "/reacttest1/static/css/2.455652b6.chunk.css.map",
+    "static/css/main.2ce860c0.chunk.css.map": "/reacttest1/static/css/main.2ce860c0.chunk.css.map",
+    "static/js/2.190fa681.chunk.js.LICENSE.txt": "/reacttest1/static/js/2.190fa681.chunk.js.LICENSE.txt",
+    "static/media/note.37ec0de1.jpg": "/reacttest1/static/media/note.37ec0de1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.97189fd0.js",
-    "static/js/2.56bd8384.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.7d35a466.chunk.js"
+    "static/js/runtime-main.9e964ea0.js",
+    "static/css/2.455652b6.chunk.css",
+    "static/js/2.190fa681.chunk.js",
+    "static/css/main.2ce860c0.chunk.css",
+    "static/js/main.fd9709c1.chunk.js"
   ]
 }
